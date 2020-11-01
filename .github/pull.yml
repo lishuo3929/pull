@@ -3,3 +3,4 @@ rules:
   - base: master
     upstream: wei:master
     mergeMethod: hardreset
+
